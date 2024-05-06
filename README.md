@@ -1,0 +1,2 @@
+# Privacypolicyios
+iOS Privacy Policy
